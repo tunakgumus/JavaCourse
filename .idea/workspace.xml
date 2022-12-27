@@ -2,19 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cbf215c0-a273-425f-8142-4001feb223cd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Day02_variables_scanner/C01_Variables.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day02_variables_scanner/C02_DataTypes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day02_variables_scanner/C03_NonPrimitiveDataTypes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day02_variables_scanner/C04_NamingConvention.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day02_variables_scanner/C05_Scanner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day02_variables_scanner/C06_Scanner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day02_variables_scanner/C07_Sorular.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day02_variables_scanner/C08_Sorular.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day02_variables_scanner/C09_Sorular.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day02_variables_scanner/C11_Sorular.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day02_variables_scanner/C12_Sorular.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day02_variables_scanner/C13_Sorular.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day02_variables_scanner/c10_Sorular.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day03_DataCasting_MatematikselIslemler/C01_DataCasting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day03_DataCasting_MatematikselIslemler/C02_ExplicitNarrowing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day03_DataCasting_MatematikselIslemler/C03_DataCasting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day03_DataCasting_MatematikselIslemler/C04_CharDataCasting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day03_DataCasting_MatematikselIslemler/C05_WrapperClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day03_DataCasting_MatematikselIslemler/C06_Sorular.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day03_DataCasting_MatematikselIslemler/C07_Modulus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day03_DataCasting_MatematikselIslemler/C08_SayininRakamlarToplaminiBulma.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -49,13 +44,13 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.C13_Sorular">
-    <configuration name="C09_Sorular" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day02_variables_scanner.C09_Sorular" />
+  <component name="RunManager" selected="Application.C08_SayininRakamlarToplaminiBulma">
+    <configuration name="C04_CharDataCasting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day03_DataCasting_MatematikselIslemler.C04_CharDataCasting" />
       <module name="JavaCourse" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Day02_variables_scanner.*" />
+          <option name="PATTERN" value="Day03_DataCasting_MatematikselIslemler.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -63,12 +58,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C11_Sorular" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day02_variables_scanner.C11_Sorular" />
+    <configuration name="C05_WrapperClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day03_DataCasting_MatematikselIslemler.C05_WrapperClass" />
       <module name="JavaCourse" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Day02_variables_scanner.*" />
+          <option name="PATTERN" value="Day03_DataCasting_MatematikselIslemler.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -76,12 +71,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C12_Sorular" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day02_variables_scanner.C12_Sorular" />
+    <configuration name="C06_Sorular" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day03_DataCasting_MatematikselIslemler.C06_Sorular" />
       <module name="JavaCourse" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Day02_variables_scanner.*" />
+          <option name="PATTERN" value="Day03_DataCasting_MatematikselIslemler.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -89,12 +84,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C13_Sorular" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day02_variables_scanner.C13_Sorular" />
+    <configuration name="C07_Modulus" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day03_DataCasting_MatematikselIslemler.C07_Modulus" />
       <module name="JavaCourse" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Day02_variables_scanner.*" />
+          <option name="PATTERN" value="Day03_DataCasting_MatematikselIslemler.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -102,12 +97,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="c10_Sorular" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day02_variables_scanner.c10_Sorular" />
+    <configuration name="C08_SayininRakamlarToplaminiBulma" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day03_DataCasting_MatematikselIslemler.C08_SayininRakamlarToplaminiBulma" />
       <module name="JavaCourse" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Day02_variables_scanner.*" />
+          <option name="PATTERN" value="Day03_DataCasting_MatematikselIslemler.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -117,11 +112,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.C13_Sorular" />
-        <item itemvalue="Application.C12_Sorular" />
-        <item itemvalue="Application.C11_Sorular" />
-        <item itemvalue="Application.c10_Sorular" />
-        <item itemvalue="Application.C09_Sorular" />
+        <item itemvalue="Application.C08_SayininRakamlarToplaminiBulma" />
+        <item itemvalue="Application.C07_Modulus" />
+        <item itemvalue="Application.C06_Sorular" />
+        <item itemvalue="Application.C05_WrapperClass" />
+        <item itemvalue="Application.C04_CharDataCasting" />
       </list>
     </recent_temporary>
   </component>
