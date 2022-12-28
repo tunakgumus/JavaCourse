@@ -2,14 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cbf215c0-a273-425f-8142-4001feb223cd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Day03_DataCasting_MatematikselIslemler/C01_DataCasting.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day03_DataCasting_MatematikselIslemler/C02_ExplicitNarrowing.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day03_DataCasting_MatematikselIslemler/C03_DataCasting.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day03_DataCasting_MatematikselIslemler/C04_CharDataCasting.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day03_DataCasting_MatematikselIslemler/C05_WrapperClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day03_DataCasting_MatematikselIslemler/C06_Sorular.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day03_DataCasting_MatematikselIslemler/C07_Modulus.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day03_DataCasting_MatematikselIslemler/C08_SayininRakamlarToplaminiBulma.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day04_Increment_Concatenation/C01_Pre_PostIncrement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day04_Increment_Concatenation/C02_Pre_PostIncrement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day04_Increment_Concatenation/C03_Concatenation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day04_Increment_Concatenation/C04_Operators.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -44,13 +40,13 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.C08_SayininRakamlarToplaminiBulma">
-    <configuration name="C04_CharDataCasting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day03_DataCasting_MatematikselIslemler.C04_CharDataCasting" />
+  <component name="RunManager" selected="Application.C04_Operators">
+    <configuration name="C01_Pre_PostIncrement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day04_Increment_Concatenation.C01_Pre_PostIncrement" />
       <module name="JavaCourse" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Day03_DataCasting_MatematikselIslemler.*" />
+          <option name="PATTERN" value="Day04_Increment_Concatenation.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -58,12 +54,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C05_WrapperClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day03_DataCasting_MatematikselIslemler.C05_WrapperClass" />
+    <configuration name="C02_Pre_PostIncrement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day04_Increment_Concatenation.C02_Pre_PostIncrement" />
       <module name="JavaCourse" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Day03_DataCasting_MatematikselIslemler.*" />
+          <option name="PATTERN" value="Day04_Increment_Concatenation.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -71,12 +67,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C06_Sorular" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day03_DataCasting_MatematikselIslemler.C06_Sorular" />
+    <configuration name="C03_Concatenation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day04_Increment_Concatenation.C03_Concatenation" />
       <module name="JavaCourse" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Day03_DataCasting_MatematikselIslemler.*" />
+          <option name="PATTERN" value="Day04_Increment_Concatenation.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -84,12 +80,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C07_Modulus" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day03_DataCasting_MatematikselIslemler.C07_Modulus" />
+    <configuration name="C04_Operators" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day04_Increment_Concatenation.C04_Operators" />
       <module name="JavaCourse" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Day03_DataCasting_MatematikselIslemler.*" />
+          <option name="PATTERN" value="Day04_Increment_Concatenation.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -112,11 +108,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.C04_Operators" />
+        <item itemvalue="Application.C03_Concatenation" />
+        <item itemvalue="Application.C02_Pre_PostIncrement" />
+        <item itemvalue="Application.C01_Pre_PostIncrement" />
         <item itemvalue="Application.C08_SayininRakamlarToplaminiBulma" />
-        <item itemvalue="Application.C07_Modulus" />
-        <item itemvalue="Application.C06_Sorular" />
-        <item itemvalue="Application.C05_WrapperClass" />
-        <item itemvalue="Application.C04_CharDataCasting" />
       </list>
     </recent_temporary>
   </component>
