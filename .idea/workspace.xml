@@ -2,10 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cbf215c0-a273-425f-8142-4001feb223cd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Day04_Increment_Concatenation/C01_Pre_PostIncrement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day04_Increment_Concatenation/C02_Pre_PostIncrement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day04_Increment_Concatenation/C03_Concatenation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day04_Increment_Concatenation/C04_Operators.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day05_IfStatements/C01_IfStatements.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day05_IfStatements/C02_IfStatements.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day05_IfStatements/C03_IfStatementsOrnekSorular.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day05_IfStatements/C04_IfStatementsSorular.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day05_IfStatements/C05_IfStatements.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day05_IfStatements/C06_IfStatements.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -40,13 +42,13 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.C04_Operators">
-    <configuration name="C01_Pre_PostIncrement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day04_Increment_Concatenation.C01_Pre_PostIncrement" />
+  <component name="RunManager" selected="Application.C06_IfStatements">
+    <configuration name="C02_IfStatements" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day05_IfStatements.C02_IfStatements" />
       <module name="JavaCourse" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Day04_Increment_Concatenation.*" />
+          <option name="PATTERN" value="Day05_IfStatements.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -54,12 +56,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C02_Pre_PostIncrement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day04_Increment_Concatenation.C02_Pre_PostIncrement" />
+    <configuration name="C03_IfStatementsOrnekSorular" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day05_IfStatements.C03_IfStatementsOrnekSorular" />
       <module name="JavaCourse" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Day04_Increment_Concatenation.*" />
+          <option name="PATTERN" value="Day05_IfStatements.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -67,12 +69,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C03_Concatenation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day04_Increment_Concatenation.C03_Concatenation" />
+    <configuration name="C04_IfStatementsSorular" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day05_IfStatements.C04_IfStatementsSorular" />
       <module name="JavaCourse" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Day04_Increment_Concatenation.*" />
+          <option name="PATTERN" value="Day05_IfStatements.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -80,12 +82,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C04_Operators" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day04_Increment_Concatenation.C04_Operators" />
+    <configuration name="C05_IfStatements" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day05_IfStatements.C05_IfStatements" />
       <module name="JavaCourse" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Day04_Increment_Concatenation.*" />
+          <option name="PATTERN" value="Day05_IfStatements.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -93,12 +95,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C08_SayininRakamlarToplaminiBulma" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day03_DataCasting_MatematikselIslemler.C08_SayininRakamlarToplaminiBulma" />
+    <configuration name="C06_IfStatements" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day05_IfStatements.C06_IfStatements" />
       <module name="JavaCourse" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Day03_DataCasting_MatematikselIslemler.*" />
+          <option name="PATTERN" value="Day05_IfStatements.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -108,11 +110,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.C04_Operators" />
-        <item itemvalue="Application.C03_Concatenation" />
-        <item itemvalue="Application.C02_Pre_PostIncrement" />
-        <item itemvalue="Application.C01_Pre_PostIncrement" />
-        <item itemvalue="Application.C08_SayininRakamlarToplaminiBulma" />
+        <item itemvalue="Application.C06_IfStatements" />
+        <item itemvalue="Application.C05_IfStatements" />
+        <item itemvalue="Application.C04_IfStatementsSorular" />
+        <item itemvalue="Application.C03_IfStatementsOrnekSorular" />
+        <item itemvalue="Application.C02_IfStatements" />
       </list>
     </recent_temporary>
   </component>
