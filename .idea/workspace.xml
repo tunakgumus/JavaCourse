@@ -2,12 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cbf215c0-a273-425f-8142-4001feb223cd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Day05_IfStatements/C01_IfStatements.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day05_IfStatements/C02_IfStatements.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day05_IfStatements/C03_IfStatementsOrnekSorular.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day05_IfStatements/C04_IfStatementsSorular.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day05_IfStatements/C05_IfStatements.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day05_IfStatements/C06_IfStatements.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day06_IfElseStatements/C01_IfElseSorular.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day06_IfElseStatements/C02_IfElseSorular.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day06_IfElseStatements/C03_IfElseSorular.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day06_IfElseStatements/C04_IfElseSorular.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day06_IfElseStatements/C05_IfElseSorular.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day06_IfElseStatements/C06_IfElseIf.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day06_IfElseStatements/C07_IfElseIfSorular.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day06_IfElseStatements/C08_IfElseIfSorular.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day06_IfElseStatements/C09_IfElseIfSorular.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day06_IfElseStatements/C10_IfElseIfSorular.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day06_IfElseStatements/C11_IfElseIfInterwievQuestion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day06_IfElseStatements/C12_NestedIfElse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day06_IfElseStatements/C12_NestedIfElseSoru.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -42,13 +49,13 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.C06_IfStatements">
-    <configuration name="C02_IfStatements" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day05_IfStatements.C02_IfStatements" />
+  <component name="RunManager" selected="Application.C12_NestedIfElseSoru">
+    <configuration name="C09_IfElseIfSorular" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day06_IfElseStatements.C09_IfElseIfSorular" />
       <module name="JavaCourse" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Day05_IfStatements.*" />
+          <option name="PATTERN" value="Day06_IfElseStatements.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -56,12 +63,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C03_IfStatementsOrnekSorular" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day05_IfStatements.C03_IfStatementsOrnekSorular" />
+    <configuration name="C10_IfElseIfSorular" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day06_IfElseStatements.C10_IfElseIfSorular" />
       <module name="JavaCourse" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Day05_IfStatements.*" />
+          <option name="PATTERN" value="Day06_IfElseStatements.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -69,12 +76,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C04_IfStatementsSorular" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day05_IfStatements.C04_IfStatementsSorular" />
+    <configuration name="C11_IfElseIfInterwievQuestion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day06_IfElseStatements.C11_IfElseIfInterwievQuestion" />
       <module name="JavaCourse" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Day05_IfStatements.*" />
+          <option name="PATTERN" value="Day06_IfElseStatements.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -82,12 +89,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C05_IfStatements" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day05_IfStatements.C05_IfStatements" />
+    <configuration name="C12_NestedIfElse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day06_IfElseStatements.C12_NestedIfElse" />
       <module name="JavaCourse" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Day05_IfStatements.*" />
+          <option name="PATTERN" value="Day06_IfElseStatements.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -95,12 +102,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C06_IfStatements" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day05_IfStatements.C06_IfStatements" />
+    <configuration name="C12_NestedIfElseSoru" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day06_IfElseStatements.C12_NestedIfElseSoru" />
       <module name="JavaCourse" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Day05_IfStatements.*" />
+          <option name="PATTERN" value="Day06_IfElseStatements.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -110,11 +117,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.C06_IfStatements" />
-        <item itemvalue="Application.C05_IfStatements" />
-        <item itemvalue="Application.C04_IfStatementsSorular" />
-        <item itemvalue="Application.C03_IfStatementsOrnekSorular" />
-        <item itemvalue="Application.C02_IfStatements" />
+        <item itemvalue="Application.C12_NestedIfElseSoru" />
+        <item itemvalue="Application.C12_NestedIfElse" />
+        <item itemvalue="Application.C11_IfElseIfInterwievQuestion" />
+        <item itemvalue="Application.C10_IfElseIfSorular" />
+        <item itemvalue="Application.C09_IfElseIfSorular" />
       </list>
     </recent_temporary>
   </component>
