@@ -2,19 +2,23 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cbf215c0-a273-425f-8142-4001feb223cd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Day06_IfElseStatements/C01_IfElseSorular.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day06_IfElseStatements/C02_IfElseSorular.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day06_IfElseStatements/C03_IfElseSorular.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day06_IfElseStatements/C04_IfElseSorular.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day06_IfElseStatements/C05_IfElseSorular.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day06_IfElseStatements/C06_IfElseIf.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day06_IfElseStatements/C07_IfElseIfSorular.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day06_IfElseStatements/C08_IfElseIfSorular.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day06_IfElseStatements/C09_IfElseIfSorular.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day06_IfElseStatements/C10_IfElseIfSorular.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day06_IfElseStatements/C11_IfElseIfInterwievQuestion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day06_IfElseStatements/C12_NestedIfElse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day06_IfElseStatements/C12_NestedIfElseSoru.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day07_Ternary_SwitchStatements/C01_IfElseIf.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day07_Ternary_SwitchStatements/C02_Ternary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day07_Ternary_SwitchStatements/C03_Ternary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day07_Ternary_SwitchStatements/C04_TernarySorular.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day07_Ternary_SwitchStatements/C05_TernarySorular.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day07_Ternary_SwitchStatements/C06_TernarySorular.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day07_Ternary_SwitchStatements/C07_TernarySorular.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day07_Ternary_SwitchStatements/C08_TernarySwitch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day07_Ternary_SwitchStatements/C09_TernarySorular.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day07_Ternary_SwitchStatements/C10_NestedTernary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day07_Ternary_SwitchStatements/C11_SwitchStatement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day07_Ternary_SwitchStatements/C12_SwitchStatement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day07_Ternary_SwitchStatements/C13_SwitchStatement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day07_Ternary_SwitchStatements/C14_SwitchStatementSorular.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day07_Ternary_SwitchStatements/C15_SwitchStatementSorular.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day07_Ternary_SwitchStatements/C16_SwitchStatementSorular.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day07_Ternary_SwitchStatements/C17_SwitchStatementSorular.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -49,13 +53,13 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.C12_NestedIfElseSoru">
-    <configuration name="C09_IfElseIfSorular" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day06_IfElseStatements.C09_IfElseIfSorular" />
+  <component name="RunManager" selected="Application.C17_SwitchStatementSorular">
+    <configuration name="C12_SwitchStatement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day07_Ternary_SwitchStatements.C12_SwitchStatement" />
       <module name="JavaCourse" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Day06_IfElseStatements.*" />
+          <option name="PATTERN" value="Day07_Ternary_SwitchStatements.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -63,12 +67,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C10_IfElseIfSorular" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day06_IfElseStatements.C10_IfElseIfSorular" />
+    <configuration name="C14_SwitchStatementSorular" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day07_Ternary_SwitchStatements.C14_SwitchStatementSorular" />
       <module name="JavaCourse" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Day06_IfElseStatements.*" />
+          <option name="PATTERN" value="Day07_Ternary_SwitchStatements.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -76,12 +80,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C11_IfElseIfInterwievQuestion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day06_IfElseStatements.C11_IfElseIfInterwievQuestion" />
+    <configuration name="C15_SwitchStatementSorular" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day07_Ternary_SwitchStatements.C15_SwitchStatementSorular" />
       <module name="JavaCourse" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Day06_IfElseStatements.*" />
+          <option name="PATTERN" value="Day07_Ternary_SwitchStatements.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -89,12 +93,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C12_NestedIfElse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day06_IfElseStatements.C12_NestedIfElse" />
+    <configuration name="C16_SwitchStatementSorular" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day07_Ternary_SwitchStatements.C16_SwitchStatementSorular" />
       <module name="JavaCourse" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Day06_IfElseStatements.*" />
+          <option name="PATTERN" value="Day07_Ternary_SwitchStatements.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -102,12 +106,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C12_NestedIfElseSoru" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day06_IfElseStatements.C12_NestedIfElseSoru" />
+    <configuration name="C17_SwitchStatementSorular" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day07_Ternary_SwitchStatements.C17_SwitchStatementSorular" />
       <module name="JavaCourse" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Day06_IfElseStatements.*" />
+          <option name="PATTERN" value="Day07_Ternary_SwitchStatements.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -117,11 +121,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.C12_NestedIfElseSoru" />
-        <item itemvalue="Application.C12_NestedIfElse" />
-        <item itemvalue="Application.C11_IfElseIfInterwievQuestion" />
-        <item itemvalue="Application.C10_IfElseIfSorular" />
-        <item itemvalue="Application.C09_IfElseIfSorular" />
+        <item itemvalue="Application.C17_SwitchStatementSorular" />
+        <item itemvalue="Application.C16_SwitchStatementSorular" />
+        <item itemvalue="Application.C15_SwitchStatementSorular" />
+        <item itemvalue="Application.C14_SwitchStatementSorular" />
+        <item itemvalue="Application.C12_SwitchStatement" />
       </list>
     </recent_temporary>
   </component>
