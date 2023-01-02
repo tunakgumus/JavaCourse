@@ -2,13 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cbf215c0-a273-425f-8142-4001feb223cd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Day08_StringManipulation/C01_StringManipulation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day08_StringManipulation/C02_ToUpperCaseLocale.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day08_StringManipulation/C03_Equals.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day08_StringManipulation/C04_EqualsIgnoreCase.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day08_StringManipulation/C05_CharAt.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day08_StringManipulation/C06_Length.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day08_StringManipulation/C07_Substring.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day09_StringManipulation/C01_Concatenation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day09_StringManipulation/C02_Contains.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day09_StringManipulation/C03_StartsWith.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day09_StringManipulation/C04_EndsWith.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day09_StringManipulation/C05_IndexOf.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day09_StringManipulation/C06_IndexOf.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day09_StringManipulation/C07_IlkTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day09_StringManipulation/C08_LastIndexOf.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -43,13 +44,13 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.C07_Substring">
-    <configuration name="C03_Equals" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day08_StringManipulation.C03_Equals" />
+  <component name="RunManager" selected="Application.C08_LastIndexOf">
+    <configuration name="C04_EndsWith" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day09_StringManipulation.C04_EndsWith" />
       <module name="JavaCourse" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Day08_StringManipulation.*" />
+          <option name="PATTERN" value="Day09_StringManipulation.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -57,12 +58,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C04_EqualsIgnoreCase" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day08_StringManipulation.C04_EqualsIgnoreCase" />
+    <configuration name="C05_IndexOf" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day09_StringManipulation.C05_IndexOf" />
       <module name="JavaCourse" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Day08_StringManipulation.*" />
+          <option name="PATTERN" value="Day09_StringManipulation.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -70,12 +71,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C05_CharAt" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day08_StringManipulation.C05_CharAt" />
+    <configuration name="C06_IndexOf" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day09_StringManipulation.C06_IndexOf" />
       <module name="JavaCourse" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Day08_StringManipulation.*" />
+          <option name="PATTERN" value="Day09_StringManipulation.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -83,12 +84,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C06_Length" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day08_StringManipulation.C06_Length" />
+    <configuration name="C07_IlkTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day09_StringManipulation.C07_IlkTest" />
       <module name="JavaCourse" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Day08_StringManipulation.*" />
+          <option name="PATTERN" value="Day09_StringManipulation.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -96,12 +97,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C07_Substring" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day08_StringManipulation.C07_Substring" />
+    <configuration name="C08_LastIndexOf" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day09_StringManipulation.C08_LastIndexOf" />
       <module name="JavaCourse" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Day08_StringManipulation.*" />
+          <option name="PATTERN" value="Day09_StringManipulation.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -111,11 +112,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.C07_Substring" />
-        <item itemvalue="Application.C06_Length" />
-        <item itemvalue="Application.C05_CharAt" />
-        <item itemvalue="Application.C04_EqualsIgnoreCase" />
-        <item itemvalue="Application.C03_Equals" />
+        <item itemvalue="Application.C08_LastIndexOf" />
+        <item itemvalue="Application.C07_IlkTest" />
+        <item itemvalue="Application.C06_IndexOf" />
+        <item itemvalue="Application.C05_IndexOf" />
+        <item itemvalue="Application.C04_EndsWith" />
       </list>
     </recent_temporary>
   </component>
