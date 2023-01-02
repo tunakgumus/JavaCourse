@@ -2,23 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cbf215c0-a273-425f-8142-4001feb223cd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Day07_Ternary_SwitchStatements/C01_IfElseIf.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day07_Ternary_SwitchStatements/C02_Ternary.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day07_Ternary_SwitchStatements/C03_Ternary.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day07_Ternary_SwitchStatements/C04_TernarySorular.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day07_Ternary_SwitchStatements/C05_TernarySorular.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day07_Ternary_SwitchStatements/C06_TernarySorular.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day07_Ternary_SwitchStatements/C07_TernarySorular.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day07_Ternary_SwitchStatements/C08_TernarySwitch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day07_Ternary_SwitchStatements/C09_TernarySorular.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day07_Ternary_SwitchStatements/C10_NestedTernary.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day07_Ternary_SwitchStatements/C11_SwitchStatement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day07_Ternary_SwitchStatements/C12_SwitchStatement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day07_Ternary_SwitchStatements/C13_SwitchStatement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day07_Ternary_SwitchStatements/C14_SwitchStatementSorular.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day07_Ternary_SwitchStatements/C15_SwitchStatementSorular.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day07_Ternary_SwitchStatements/C16_SwitchStatementSorular.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day07_Ternary_SwitchStatements/C17_SwitchStatementSorular.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day08_StringManipulation/C01_StringManipulation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day08_StringManipulation/C02_ToUpperCaseLocale.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day08_StringManipulation/C03_Equals.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day08_StringManipulation/C04_EqualsIgnoreCase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day08_StringManipulation/C05_CharAt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day08_StringManipulation/C06_Length.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day08_StringManipulation/C07_Substring.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -53,13 +43,13 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.C17_SwitchStatementSorular">
-    <configuration name="C12_SwitchStatement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day07_Ternary_SwitchStatements.C12_SwitchStatement" />
+  <component name="RunManager" selected="Application.C07_Substring">
+    <configuration name="C03_Equals" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day08_StringManipulation.C03_Equals" />
       <module name="JavaCourse" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Day07_Ternary_SwitchStatements.*" />
+          <option name="PATTERN" value="Day08_StringManipulation.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -67,12 +57,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C14_SwitchStatementSorular" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day07_Ternary_SwitchStatements.C14_SwitchStatementSorular" />
+    <configuration name="C04_EqualsIgnoreCase" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day08_StringManipulation.C04_EqualsIgnoreCase" />
       <module name="JavaCourse" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Day07_Ternary_SwitchStatements.*" />
+          <option name="PATTERN" value="Day08_StringManipulation.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -80,12 +70,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C15_SwitchStatementSorular" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day07_Ternary_SwitchStatements.C15_SwitchStatementSorular" />
+    <configuration name="C05_CharAt" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day08_StringManipulation.C05_CharAt" />
       <module name="JavaCourse" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Day07_Ternary_SwitchStatements.*" />
+          <option name="PATTERN" value="Day08_StringManipulation.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -93,12 +83,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C16_SwitchStatementSorular" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day07_Ternary_SwitchStatements.C16_SwitchStatementSorular" />
+    <configuration name="C06_Length" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day08_StringManipulation.C06_Length" />
       <module name="JavaCourse" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Day07_Ternary_SwitchStatements.*" />
+          <option name="PATTERN" value="Day08_StringManipulation.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -106,12 +96,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C17_SwitchStatementSorular" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day07_Ternary_SwitchStatements.C17_SwitchStatementSorular" />
+    <configuration name="C07_Substring" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day08_StringManipulation.C07_Substring" />
       <module name="JavaCourse" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Day07_Ternary_SwitchStatements.*" />
+          <option name="PATTERN" value="Day08_StringManipulation.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -121,11 +111,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.C17_SwitchStatementSorular" />
-        <item itemvalue="Application.C16_SwitchStatementSorular" />
-        <item itemvalue="Application.C15_SwitchStatementSorular" />
-        <item itemvalue="Application.C14_SwitchStatementSorular" />
-        <item itemvalue="Application.C12_SwitchStatement" />
+        <item itemvalue="Application.C07_Substring" />
+        <item itemvalue="Application.C06_Length" />
+        <item itemvalue="Application.C05_CharAt" />
+        <item itemvalue="Application.C04_EqualsIgnoreCase" />
+        <item itemvalue="Application.C03_Equals" />
       </list>
     </recent_temporary>
   </component>
