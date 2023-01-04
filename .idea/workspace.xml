@@ -2,15 +2,23 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cbf215c0-a273-425f-8142-4001feb223cd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Day09_StringManipulation/C01_Concatenation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day09_StringManipulation/C02_Contains.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day09_StringManipulation/C03_StartsWith.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day09_StringManipulation/C04_EndsWith.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day09_StringManipulation/C05_IndexOf.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day09_StringManipulation/C06_IndexOf.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day09_StringManipulation/C07_IlkTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day09_StringManipulation/C08_LastIndexOf.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day10_StringManipulation/C01_nullPointer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day10_StringManipulation/C02_replace.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day10_StringManipulation/C03_replaceAll.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day10_StringManipulation/C04_replaceFirst.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day10_StringManipulation/C05_StringManipulationSorular1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day10_StringManipulation/C06_Soru2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day10_StringManipulation/C07_Soru3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day10_StringManipulation/C08_Soru4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day10_StringManipulation/C09_Soru5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day10_StringManipulation/C10_Soru6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day10_StringManipulation/C11_ForLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day10_StringManipulation/C12_forLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day10_StringManipulation/C13_forLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day10_StringManipulation/C14_forLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day10_StringManipulation/C15_forLoopFaktoryel.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Day09_StringManipulation/C08_LastIndexOf.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day09_StringManipulation/C08_LastIndexOf.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,6 +28,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="AnnotationType" />
         <option value="Class" />
       </list>
     </option>
@@ -44,13 +53,13 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.C08_LastIndexOf">
-    <configuration name="C04_EndsWith" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day09_StringManipulation.C04_EndsWith" />
+  <component name="RunManager" selected="Application.C15_forLoopFaktoryel">
+    <configuration name="C11_ForLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day10_StringManipulation.C11_ForLoop" />
       <module name="JavaCourse" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Day09_StringManipulation.*" />
+          <option name="PATTERN" value="Day10_StringManipulation.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -58,12 +67,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C05_IndexOf" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day09_StringManipulation.C05_IndexOf" />
+    <configuration name="C12_forLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day10_StringManipulation.C12_forLoop" />
       <module name="JavaCourse" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Day09_StringManipulation.*" />
+          <option name="PATTERN" value="Day10_StringManipulation.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -71,12 +80,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C06_IndexOf" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day09_StringManipulation.C06_IndexOf" />
+    <configuration name="C13_forLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day10_StringManipulation.C13_forLoop" />
       <module name="JavaCourse" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Day09_StringManipulation.*" />
+          <option name="PATTERN" value="Day10_StringManipulation.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -84,12 +93,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C07_IlkTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day09_StringManipulation.C07_IlkTest" />
+    <configuration name="C14_forLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day10_StringManipulation.C14_forLoop" />
       <module name="JavaCourse" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Day09_StringManipulation.*" />
+          <option name="PATTERN" value="Day10_StringManipulation.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -97,12 +106,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C08_LastIndexOf" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day09_StringManipulation.C08_LastIndexOf" />
+    <configuration name="C15_forLoopFaktoryel" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day10_StringManipulation.C15_forLoopFaktoryel" />
       <module name="JavaCourse" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Day09_StringManipulation.*" />
+          <option name="PATTERN" value="Day10_StringManipulation.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -112,11 +121,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.C08_LastIndexOf" />
-        <item itemvalue="Application.C07_IlkTest" />
-        <item itemvalue="Application.C06_IndexOf" />
-        <item itemvalue="Application.C05_IndexOf" />
-        <item itemvalue="Application.C04_EndsWith" />
+        <item itemvalue="Application.C15_forLoopFaktoryel" />
+        <item itemvalue="Application.C14_forLoop" />
+        <item itemvalue="Application.C13_forLoop" />
+        <item itemvalue="Application.C12_forLoop" />
+        <item itemvalue="Application.C11_ForLoop" />
       </list>
     </recent_temporary>
   </component>

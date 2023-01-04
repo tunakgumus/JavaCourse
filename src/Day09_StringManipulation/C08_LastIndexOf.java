@@ -2,6 +2,8 @@ package Day09_StringManipulation;
 
 public class C08_LastIndexOf {
     public static void main(String[] args) {
+
+
         //verilen str da cok kelimesi
         // hic kullanilmamis
         //bir kere kullanilmis
