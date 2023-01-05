@@ -2,26 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cbf215c0-a273-425f-8142-4001feb223cd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Day11_forLoops/C01_forLoop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day11_forLoops/C02_forLoop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day11_forLoops/C03_asalSayi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day11_forLoops/C04_forLoopSorular.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day11_forLoops/C05_Soru2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day11_forLoops/C06_Soru3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day11_forLoops/C07_Soru4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day11_forLoops/C08_Soru5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day11_forLoops/C09_Soru6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day11_forLoops/C10_Soru7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day11_forLoops/C11_Soru8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day11_forLoops/C12_Soru09.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day11_forLoops/C13_Soru10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day11_forLoops/C14_nestedLoop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day11_forLoops/C15_nestedLoop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day11_forLoops/C16_nestedLoop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day11_forLoops/C17_nestedLoop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day11_forLoops/C18_methodCreation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day12_methodCreation/C01_method.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day12_methodCreation/C02_methodOlusturma.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day12_methodCreation/C03_Method_Asal_Sayi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day12_methodCreation/C04_faktoryel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day12_methodCreation/C05_HesapMakinesi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day12_methodCreation/C06_methodKullanimi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day12_methodCreation/C07_terseCevirme.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day12_methodCreation/C08_palindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day12_methodCreation/C09_fibonacciDizimi.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Day10_StringManipulation/C15_forLoopFaktoryel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day10_StringManipulation/C15_forLoopFaktoryel.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,13 +46,13 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.C18_methodCreation">
-    <configuration name="C14_nestedForLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day11_forLoops.C14_nestedForLoop" />
+  <component name="RunManager" selected="Application.C09_fibonacciDizimi">
+    <configuration name="C05_HesapMakinesi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day12_methodCreation.C05_HesapMakinesi" />
       <module name="JavaCourse" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Day11_forLoops.*" />
+          <option name="PATTERN" value="Day12_methodCreation.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -70,12 +60,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C15_nestedLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day11_forLoops.C15_nestedLoop" />
+    <configuration name="C06_methodKullanimi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day12_methodCreation.C06_methodKullanimi" />
       <module name="JavaCourse" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Day11_forLoops.*" />
+          <option name="PATTERN" value="Day12_methodCreation.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -83,12 +73,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C16_nestedLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day11_forLoops.C16_nestedLoop" />
+    <configuration name="C07_terseCevirme" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day12_methodCreation.C07_terseCevirme" />
       <module name="JavaCourse" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Day11_forLoops.*" />
+          <option name="PATTERN" value="Day12_methodCreation.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -96,12 +86,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C17_nestedLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day11_forLoops.C17_nestedLoop" />
+    <configuration name="C08_palindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day12_methodCreation.C08_palindrome" />
       <module name="JavaCourse" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Day11_forLoops.*" />
+          <option name="PATTERN" value="Day12_methodCreation.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -109,12 +99,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C18_methodCreation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day11_forLoops.C18_methodCreation" />
+    <configuration name="C09_fibonacciDizimi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day12_methodCreation.C09_fibonacciDizimi" />
       <module name="JavaCourse" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Day11_forLoops.*" />
+          <option name="PATTERN" value="Day12_methodCreation.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -124,11 +114,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.C18_methodCreation" />
-        <item itemvalue="Application.C17_nestedLoop" />
-        <item itemvalue="Application.C16_nestedLoop" />
-        <item itemvalue="Application.C15_nestedLoop" />
-        <item itemvalue="Application.C14_nestedForLoop" />
+        <item itemvalue="Application.C09_fibonacciDizimi" />
+        <item itemvalue="Application.C08_palindrome" />
+        <item itemvalue="Application.C07_terseCevirme" />
+        <item itemvalue="Application.C06_methodKullanimi" />
+        <item itemvalue="Application.C05_HesapMakinesi" />
       </list>
     </recent_temporary>
   </component>
