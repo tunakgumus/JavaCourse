@@ -2,23 +2,26 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cbf215c0-a273-425f-8142-4001feb223cd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Day10_StringManipulation/C01_nullPointer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day10_StringManipulation/C02_replace.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day10_StringManipulation/C03_replaceAll.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day10_StringManipulation/C04_replaceFirst.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day10_StringManipulation/C05_StringManipulationSorular1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day10_StringManipulation/C06_Soru2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day10_StringManipulation/C07_Soru3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day10_StringManipulation/C08_Soru4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day10_StringManipulation/C09_Soru5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day10_StringManipulation/C10_Soru6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day10_StringManipulation/C11_ForLoop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day10_StringManipulation/C12_forLoop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day10_StringManipulation/C13_forLoop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day10_StringManipulation/C14_forLoop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day10_StringManipulation/C15_forLoopFaktoryel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day11_forLoops/C01_forLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day11_forLoops/C02_forLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day11_forLoops/C03_asalSayi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day11_forLoops/C04_forLoopSorular.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day11_forLoops/C05_Soru2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day11_forLoops/C06_Soru3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day11_forLoops/C07_Soru4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day11_forLoops/C08_Soru5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day11_forLoops/C09_Soru6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day11_forLoops/C10_Soru7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day11_forLoops/C11_Soru8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day11_forLoops/C12_Soru09.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day11_forLoops/C13_Soru10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day11_forLoops/C14_nestedLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day11_forLoops/C15_nestedLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day11_forLoops/C16_nestedLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day11_forLoops/C17_nestedLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day11_forLoops/C18_methodCreation.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Day09_StringManipulation/C08_LastIndexOf.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day09_StringManipulation/C08_LastIndexOf.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Day10_StringManipulation/C15_forLoopFaktoryel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day10_StringManipulation/C15_forLoopFaktoryel.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,13 +56,13 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.C15_forLoopFaktoryel">
-    <configuration name="C11_ForLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day10_StringManipulation.C11_ForLoop" />
+  <component name="RunManager" selected="Application.C18_methodCreation">
+    <configuration name="C14_nestedForLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day11_forLoops.C14_nestedForLoop" />
       <module name="JavaCourse" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Day10_StringManipulation.*" />
+          <option name="PATTERN" value="Day11_forLoops.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -67,12 +70,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C12_forLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day10_StringManipulation.C12_forLoop" />
+    <configuration name="C15_nestedLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day11_forLoops.C15_nestedLoop" />
       <module name="JavaCourse" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Day10_StringManipulation.*" />
+          <option name="PATTERN" value="Day11_forLoops.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -80,12 +83,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C13_forLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day10_StringManipulation.C13_forLoop" />
+    <configuration name="C16_nestedLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day11_forLoops.C16_nestedLoop" />
       <module name="JavaCourse" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Day10_StringManipulation.*" />
+          <option name="PATTERN" value="Day11_forLoops.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -93,12 +96,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C14_forLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day10_StringManipulation.C14_forLoop" />
+    <configuration name="C17_nestedLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day11_forLoops.C17_nestedLoop" />
       <module name="JavaCourse" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Day10_StringManipulation.*" />
+          <option name="PATTERN" value="Day11_forLoops.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -106,12 +109,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C15_forLoopFaktoryel" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day10_StringManipulation.C15_forLoopFaktoryel" />
+    <configuration name="C18_methodCreation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day11_forLoops.C18_methodCreation" />
       <module name="JavaCourse" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Day10_StringManipulation.*" />
+          <option name="PATTERN" value="Day11_forLoops.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -121,11 +124,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.C15_forLoopFaktoryel" />
-        <item itemvalue="Application.C14_forLoop" />
-        <item itemvalue="Application.C13_forLoop" />
-        <item itemvalue="Application.C12_forLoop" />
-        <item itemvalue="Application.C11_ForLoop" />
+        <item itemvalue="Application.C18_methodCreation" />
+        <item itemvalue="Application.C17_nestedLoop" />
+        <item itemvalue="Application.C16_nestedLoop" />
+        <item itemvalue="Application.C15_nestedLoop" />
+        <item itemvalue="Application.C14_nestedForLoop" />
       </list>
     </recent_temporary>
   </component>
