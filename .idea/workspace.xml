@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cbf215c0-a273-425f-8142-4001feb223cd" name="Changes" comment="" />
+    <list default="true" id="cbf215c0-a273-425f-8142-4001feb223cd" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Day15_scope_Arrays/C01_Hastane.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day15_scope_Arrays/C02_hastane.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day15_scope_Arrays/C03_baskaClassaErisme.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day15_scope_Arrays/C04_arrays.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -36,13 +42,13 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.C05_doWhileLoopSoru2">
-    <configuration name="C01_doWhileLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day14_doWhileLoopScope.C01_doWhileLoop" />
+  <component name="RunManager" selected="Application.C04_arrays">
+    <configuration name="C01_Hastane" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day15_scope_Arrays.C01_Hastane" />
       <module name="JavaCourse" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Day14_doWhileLoopScope.*" />
+          <option name="PATTERN" value="Day15_scope_Arrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -50,12 +56,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C02_doWhileLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day14_doWhileLoopScope.C02_doWhileLoop" />
+    <configuration name="C02_hastane" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day15_scope_Arrays.C02_hastane" />
       <module name="JavaCourse" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Day14_doWhileLoopScope.*" />
+          <option name="PATTERN" value="Day15_scope_Arrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -63,12 +69,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C03_doWhileLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day14_doWhileLoopScope.C03_doWhileLoop" />
+    <configuration name="C03_baskaClassaErisme" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day15_scope_Arrays.C03_baskaClassaErisme" />
       <module name="JavaCourse" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Day14_doWhileLoopScope.*" />
+          <option name="PATTERN" value="Day15_scope_Arrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -76,12 +82,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C04_doWhileSoru" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day14_doWhileLoopScope.C04_doWhileSoru" />
+    <configuration name="C04_arrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day15_scope_Arrays.C04_arrays" />
       <module name="JavaCourse" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Day14_doWhileLoopScope.*" />
+          <option name="PATTERN" value="Day15_scope_Arrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -104,11 +110,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.C04_arrays" />
+        <item itemvalue="Application.C03_baskaClassaErisme" />
+        <item itemvalue="Application.C02_hastane" />
+        <item itemvalue="Application.C01_Hastane" />
         <item itemvalue="Application.C05_doWhileLoopSoru2" />
-        <item itemvalue="Application.C04_doWhileSoru" />
-        <item itemvalue="Application.C03_doWhileLoop" />
-        <item itemvalue="Application.C02_doWhileLoop" />
-        <item itemvalue="Application.C01_doWhileLoop" />
       </list>
     </recent_temporary>
   </component>
