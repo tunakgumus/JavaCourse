@@ -1,17 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cbf215c0-a273-425f-8142-4001feb223cd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Day14_doWhileLoopScope/C01_doWhileLoop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day14_doWhileLoopScope/C02_doWhileLoop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day14_doWhileLoopScope/C03_doWhileLoop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day14_doWhileLoopScope/C04_doWhileSoru.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day14_doWhileLoopScope/C05_doWhileLoopSoru2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day14_doWhileLoopScope/C06_Scope.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day14_doWhileLoopScope/Hastane.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Day13_methodOverloading_whileLoop/C06_sifreKontrolu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day13_methodOverloading_whileLoop/C06_sifreKontrolu.java" afterDir="false" />
-    </list>
+    <list default="true" id="cbf215c0-a273-425f-8142-4001feb223cd" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
