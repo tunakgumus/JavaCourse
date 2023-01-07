@@ -2,14 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cbf215c0-a273-425f-8142-4001feb223cd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Day13_methodOverloading_whileLoop/C01_methodCall.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day13_methodOverloading_whileLoop/C02_methodOverloading.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day13_methodOverloading_whileLoop/C03_methodOverloading.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day13_methodOverloading_whileLoop/C04_whileLoop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day13_methodOverloading_whileLoop/C05_whileLoop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day13_methodOverloading_whileLoop/C06_sifreKontrolu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day13_methodOverloading_whileLoop/C07_basitOyun.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day14_doWhileLoopScope/C01_doWhileLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day14_doWhileLoopScope/C02_doWhileLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day14_doWhileLoopScope/C03_doWhileLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day14_doWhileLoopScope/C04_doWhileSoru.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day14_doWhileLoopScope/C05_doWhileLoopSoru2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day14_doWhileLoopScope/C06_Scope.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day14_doWhileLoopScope/Hastane.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Day13_methodOverloading_whileLoop/C06_sifreKontrolu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day13_methodOverloading_whileLoop/C06_sifreKontrolu.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,13 +46,13 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.C07_basitOyun">
-    <configuration name="C02_methodOverloading" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day13_methodOverloading_whileLoop.C02_methodOverloading" />
+  <component name="RunManager" selected="Application.C05_doWhileLoopSoru2">
+    <configuration name="C01_doWhileLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day14_doWhileLoopScope.C01_doWhileLoop" />
       <module name="JavaCourse" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Day13_methodOverloading_whileLoop.*" />
+          <option name="PATTERN" value="Day14_doWhileLoopScope.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -59,12 +60,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C04_whileLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day13_methodOverloading_whileLoop.C04_whileLoop" />
+    <configuration name="C02_doWhileLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day14_doWhileLoopScope.C02_doWhileLoop" />
       <module name="JavaCourse" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Day13_methodOverloading_whileLoop.*" />
+          <option name="PATTERN" value="Day14_doWhileLoopScope.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -72,12 +73,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C05_whileLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day13_methodOverloading_whileLoop.C05_whileLoop" />
+    <configuration name="C03_doWhileLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day14_doWhileLoopScope.C03_doWhileLoop" />
       <module name="JavaCourse" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Day13_methodOverloading_whileLoop.*" />
+          <option name="PATTERN" value="Day14_doWhileLoopScope.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -85,12 +86,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C06_sifreKontrolu" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day13_methodOverloading_whileLoop.C06_sifreKontrolu" />
+    <configuration name="C04_doWhileSoru" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day14_doWhileLoopScope.C04_doWhileSoru" />
       <module name="JavaCourse" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Day13_methodOverloading_whileLoop.*" />
+          <option name="PATTERN" value="Day14_doWhileLoopScope.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -98,12 +99,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C07_basitOyun" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day13_methodOverloading_whileLoop.C07_basitOyun" />
+    <configuration name="C05_doWhileLoopSoru2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day14_doWhileLoopScope.C05_doWhileLoopSoru2" />
       <module name="JavaCourse" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Day13_methodOverloading_whileLoop.*" />
+          <option name="PATTERN" value="Day14_doWhileLoopScope.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -113,11 +114,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.C07_basitOyun" />
-        <item itemvalue="Application.C06_sifreKontrolu" />
-        <item itemvalue="Application.C05_whileLoop" />
-        <item itemvalue="Application.C04_whileLoop" />
-        <item itemvalue="Application.C02_methodOverloading" />
+        <item itemvalue="Application.C05_doWhileLoopSoru2" />
+        <item itemvalue="Application.C04_doWhileSoru" />
+        <item itemvalue="Application.C03_doWhileLoop" />
+        <item itemvalue="Application.C02_doWhileLoop" />
+        <item itemvalue="Application.C01_doWhileLoop" />
       </list>
     </recent_temporary>
   </component>

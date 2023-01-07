@@ -21,8 +21,8 @@ public class C06_sifreKontrolu {
 
         while (sifreTekrar){
 
-            System.out.println("lutfen bir sifre giriniz");
-            sifre = scan.nextLine();
+                System.out.println("lutfen bir sifre giriniz");
+                sifre = scan.nextLine();
 
             if(sifreKontrolEt(sifre)){
             System.out.println("sifre basari ile olsuturuldu");
