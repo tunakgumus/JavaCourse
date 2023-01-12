@@ -2,18 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cbf215c0-a273-425f-8142-4001feb223cd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Day17_arrays/C01_binarySearch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day17_arrays/C02_equals.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day17_arrays/C03_stringSplitMethodu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day17_arrays/C04_multiDimensionalArrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day17_arrays/C05_MDA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day17_arrays/C06_MDA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day17_arrays/C07_MDA_Soru.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day17_arrays/C08_MDA_Soru.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day17_arrays/C09_MDA_Soru.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day17_arrays/C10_MDA_Soru.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day17_arrays/C11_MDA_soru.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day18_arrayList/C01_arrayList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day18_arrayList/C02_remove.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day18_arrayList/C03_remove.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day18_arrayList/C04_size.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day18_arrayList/C05_contains.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day18_arrayList/C06_soru.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day18_arrayList/C07_set.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day18_arrayList/C08_equals.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day18_arrayList/C09_indexOf.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day18_arrayList/C10_soru.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day18_arrayList/C11_soru.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day18_arrayList/C12_soru.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day18_arrayList/C13_soru.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day18_arrayList/C14_soru.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Day16_arrays/C10_soru.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day16_arrays/C10_arrayeElementEkleme.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,13 +53,13 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.C08_MDA_Soru">
-    <configuration name="C07_MDA_Soru" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day17_arrays.C07_MDA_Soru" />
+  <component name="RunManager" selected="Application.C14_soru">
+    <configuration name="C10_soru" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day18_arrayList.C10_soru" />
       <module name="JavaCourse" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Day17_arrays.*" />
+          <option name="PATTERN" value="Day18_arrayList.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -63,12 +67,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C08_MDA_Soru" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day17_arrays.C08_MDA_Soru" />
+    <configuration name="C11_soru" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day18_arrayList.C11_soru" />
       <module name="JavaCourse" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Day17_arrays.*" />
+          <option name="PATTERN" value="Day18_arrayList.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -76,12 +80,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C09_MDA_Soru" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day17_arrays.C09_MDA_Soru" />
+    <configuration name="C12_soru" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day18_arrayList.C12_soru" />
       <module name="JavaCourse" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Day17_arrays.*" />
+          <option name="PATTERN" value="Day18_arrayList.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -89,12 +93,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C10_MDA_Soru" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day17_arrays.C10_MDA_Soru" />
+    <configuration name="C13_soru" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day18_arrayList.C13_soru" />
       <module name="JavaCourse" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Day17_arrays.*" />
+          <option name="PATTERN" value="Day18_arrayList.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -102,12 +106,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C11_MDA_soru" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day17_arrays.C11_MDA_soru" />
+    <configuration name="C14_soru" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day18_arrayList.C14_soru" />
       <module name="JavaCourse" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Day17_arrays.*" />
+          <option name="PATTERN" value="Day18_arrayList.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -117,11 +121,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.C08_MDA_Soru" />
-        <item itemvalue="Application.C11_MDA_soru" />
-        <item itemvalue="Application.C10_MDA_Soru" />
-        <item itemvalue="Application.C09_MDA_Soru" />
-        <item itemvalue="Application.C07_MDA_Soru" />
+        <item itemvalue="Application.C14_soru" />
+        <item itemvalue="Application.C13_soru" />
+        <item itemvalue="Application.C12_soru" />
+        <item itemvalue="Application.C11_soru" />
+        <item itemvalue="Application.C10_soru" />
       </list>
     </recent_temporary>
   </component>
