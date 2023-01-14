@@ -11,7 +11,6 @@ public class C05_Soru2 {
         int sayi = scan.nextInt();
         for (int i = 1; i <=sayi ; i++) {
             if (i%7==0) System.out.print(i + " ");
-
         }
     }
 }

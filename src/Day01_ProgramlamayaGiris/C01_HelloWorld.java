@@ -5,5 +5,12 @@ public class C01_HelloWorld {
         System.out.println("Hello World");
         System.out.print("Bugun Kodlamada İlk gün");
         System.out.println("Bu da 3. satir  ");
+
+        {
+            for(int i=0; true; i++)
+            {
+                System.out.println("Hello Javatpoint");
+            }
+        }
     }
 }

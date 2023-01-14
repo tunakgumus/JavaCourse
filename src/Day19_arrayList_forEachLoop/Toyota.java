@@ -6,7 +6,7 @@ public class Toyota {
     int yil;
     int km;
     String renk;
-    Toyota (){
+    public Toyota (){
         System.out.println("Toyota classindaki cons. calisti");
     }
 }
