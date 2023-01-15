@@ -2,19 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cbf215c0-a273-425f-8142-4001feb223cd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Day20_Constructor/C01_constructor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day20_Constructor/C02_constructor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day20_Constructor/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day20_Constructor/Rope.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day21_staticKeyword/C01_staticBlock.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day21_staticKeyword/C02_passByValue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day21_staticKeyword/C03_passByValue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day21_staticKeyword/C04_passByValue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day21_staticKeyword/C05_passByValueCokluElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day22_immutableClasses/C01_passByValue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day22_immutableClasses/C02_immutableClasses.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day22_immutableClasses/C03_immutableClasses.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day22_immutableClasses/C04_StringEqualsMethodu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day22_immutableClasses/C05_date_time.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Day01_ProgramlamayaGiris/C01_HelloWorld.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day01_ProgramlamayaGiris/C01_HelloWorld.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Day11_forLoops/C05_Soru2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day11_forLoops/C05_Soru2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Day19_arrayList_forEachLoop/Toyota.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day19_arrayList_forEachLoop/Toyota.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Day09_StringManipulation/C07_IlkTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day09_StringManipulation/C07_IlkTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,13 +44,13 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;project.scopes&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.C06_passByValueCokluElement">
-    <configuration name="C02_passByValue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day21_staticKeyword.C02_passByValue" />
+  <component name="RunManager" selected="Application.C05_date_time">
+    <configuration name="C01_passByValue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day22_immutableClasses.C01_passByValue" />
       <module name="JavaCourse" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Day21_staticKeyword.*" />
+          <option name="PATTERN" value="Day22_immutableClasses.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -64,12 +58,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C03_passByValue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day21_staticKeyword.C03_passByValue" />
+    <configuration name="C02_immutableClasses" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day22_immutableClasses.C02_immutableClasses" />
       <module name="JavaCourse" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Day21_staticKeyword.*" />
+          <option name="PATTERN" value="Day22_immutableClasses.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -77,12 +71,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C04_passByValue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day21_staticKeyword.C04_passByValue" />
+    <configuration name="C03_immutableClasses" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day22_immutableClasses.C03_immutableClasses" />
       <module name="JavaCourse" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Day21_staticKeyword.*" />
+          <option name="PATTERN" value="Day22_immutableClasses.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -90,12 +84,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C05_passByValueCokluElement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day21_staticKeyword.C05_passByValueCokluElement" />
+    <configuration name="C04_StringEqualsMethodu" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day22_immutableClasses.C04_StringEqualsMethodu" />
       <module name="JavaCourse" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Day21_staticKeyword.*" />
+          <option name="PATTERN" value="Day22_immutableClasses.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -103,12 +97,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C06_passByValueCokluElement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day21_staticKeyword.C06_passByValueCokluElement" />
+    <configuration name="C05_date_time" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day22_immutableClasses.C05_date_time" />
       <module name="JavaCourse" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Day21_staticKeyword.*" />
+          <option name="PATTERN" value="Day22_immutableClasses.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -118,11 +112,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.C06_passByValueCokluElement" />
-        <item itemvalue="Application.C05_passByValueCokluElement" />
-        <item itemvalue="Application.C04_passByValue" />
-        <item itemvalue="Application.C03_passByValue" />
-        <item itemvalue="Application.C02_passByValue" />
+        <item itemvalue="Application.C05_date_time" />
+        <item itemvalue="Application.C04_StringEqualsMethodu" />
+        <item itemvalue="Application.C03_immutableClasses" />
+        <item itemvalue="Application.C02_immutableClasses" />
+        <item itemvalue="Application.C01_passByValue" />
       </list>
     </recent_temporary>
   </component>
