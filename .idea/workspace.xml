@@ -2,14 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cbf215c0-a273-425f-8142-4001feb223cd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Day23_dayTime_Varargs/C01_localTime.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day23_dayTime_Varargs/C02_localDateTime.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day23_dayTime_Varargs/C03_DateTimeFormatter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day23_dayTime_Varargs/C04_Period.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day23_dayTime_Varargs/C05_Varargs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day23_dayTime_Varargs/C06_Varargs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day23_dayTime_Varargs/C07_varargs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day23_dayTime_Varargs/C08_varargs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day24_stringBuilder/C01_stringBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day24_stringBuilder/C02_stringBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day24_stringBuilder/C03_stringBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day24_stringBuilder/C04_accessModifier.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day24_stringBuilder/C05_encapsulation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day24_stringBuilder/D.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day24_stringBuilder/EncapsuleClass.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -46,13 +45,13 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;project.scopes&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.C08_varargs">
-    <configuration name="C04_Period" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day23_dayTime_Varargs.C04_Period" />
+  <component name="RunManager" selected="Application.C05_encapsulation">
+    <configuration name="C02_stringBuilder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day24_stringBuilder.C02_stringBuilder" />
       <module name="JavaCourse" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Day23_dayTime_Varargs.*" />
+          <option name="PATTERN" value="Day24_stringBuilder.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -60,12 +59,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C05_Varargs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day23_dayTime_Varargs.C05_Varargs" />
+    <configuration name="C03_stringBuilder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day24_stringBuilder.C03_stringBuilder" />
       <module name="JavaCourse" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Day23_dayTime_Varargs.*" />
+          <option name="PATTERN" value="Day24_stringBuilder.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -73,12 +72,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C06_Varargs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day23_dayTime_Varargs.C06_Varargs" />
+    <configuration name="C04_accessModifier" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day24_stringBuilder.C04_accessModifier" />
       <module name="JavaCourse" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Day23_dayTime_Varargs.*" />
+          <option name="PATTERN" value="Day24_stringBuilder.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -86,12 +85,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C07_varargs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day23_dayTime_Varargs.C07_varargs" />
+    <configuration name="C05_encapsulation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day24_stringBuilder.C05_encapsulation" />
       <module name="JavaCourse" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Day23_dayTime_Varargs.*" />
+          <option name="PATTERN" value="Day24_stringBuilder.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -99,12 +98,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C08_varargs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day23_dayTime_Varargs.C08_varargs" />
+    <configuration name="D" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day24_stringBuilder.D" />
       <module name="JavaCourse" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Day23_dayTime_Varargs.*" />
+          <option name="PATTERN" value="Day24_stringBuilder.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -114,11 +113,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.C08_varargs" />
-        <item itemvalue="Application.C07_varargs" />
-        <item itemvalue="Application.C06_Varargs" />
-        <item itemvalue="Application.C05_Varargs" />
-        <item itemvalue="Application.C04_Period" />
+        <item itemvalue="Application.C05_encapsulation" />
+        <item itemvalue="Application.C04_accessModifier" />
+        <item itemvalue="Application.D" />
+        <item itemvalue="Application.C03_stringBuilder" />
+        <item itemvalue="Application.C02_stringBuilder" />
       </list>
     </recent_temporary>
   </component>
