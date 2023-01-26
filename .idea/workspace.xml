@@ -2,12 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cbf215c0-a273-425f-8142-4001feb223cd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Day24_stringBuilder/FChildOfPersonel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day25_inheritance/APersonel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day25_inheritance/BDoktor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day25_inheritance/CCar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day25_inheritance/DToyota.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day25_inheritance/ECorolla.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day26_inheritance/C01_sinif.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day26_inheritance/DToyota.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day26_inheritance/ECorolla.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day26_inheritance/FDizelCorolla.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -44,7 +42,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;project.scopes&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.ECorolla">
+  <component name="RunManager" selected="Application.FDizelCorolla">
     <configuration name="BDoktor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Day25_inheritance.BDoktor" />
       <module name="JavaCourse" />
@@ -58,25 +56,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C05_encapsulation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day24_stringBuilder.C05_encapsulation" />
+    <configuration name="C01_sinif" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day26_inheritance.C01_sinif" />
       <module name="JavaCourse" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Day24_stringBuilder.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="C12_NestedIfElse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day06_IfElseStatements.C12_NestedIfElse" />
-      <module name="JavaCourse" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Day06_IfElseStatements.*" />
+          <option name="PATTERN" value="Day26_inheritance.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -110,13 +95,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="FDizelCorolla" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day26_inheritance.FDizelCorolla" />
+      <module name="JavaCourse" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Day26_inheritance.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FDizelCorolla" />
+        <item itemvalue="Application.C01_sinif" />
         <item itemvalue="Application.ECorolla" />
         <item itemvalue="Application.FChildOfPersonel" />
         <item itemvalue="Application.BDoktor" />
-        <item itemvalue="Application.C12_NestedIfElse" />
-        <item itemvalue="Application.C05_encapsulation" />
       </list>
     </recent_temporary>
   </component>
