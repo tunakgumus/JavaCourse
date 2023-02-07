@@ -5,14 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cbf215c0-a273-425f-8142-4001feb223cd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Day31_collections/C01_LinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day31_collections/C02_LinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day31_collections/C03_queue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day31_collections/C04_Deque.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day31_collections/C05_set.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day31_collections/C06_arraydekiTekrarlardanKurtulma.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day32_setsMaps/C01_sets.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day32_setsMaps/C02_hashSetMethodlari.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day32_setsMaps/C03_hashSetTreeSet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day32_setsMaps/C04_treeSet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day32_setsMaps/C05_maps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day32_setsMaps/C06_value.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day32_setsMaps/C08_SubeListesiOlusturma.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day32_setsMaps/mapMethodDepo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Day30_interfaces_Iterartor/I02_interface.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day30_interfaces_Iterartor/I02_interface.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,13 +54,13 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;project.scopes&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.C06_arraydekiTekrarlardanKurtulma">
-    <configuration name="C02_LinkedList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day31_collections.C02_LinkedList" />
+  <component name="RunManager" selected="Application.C08_SubeListesiOlusturma">
+    <configuration name="C04_treeSet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day32_setsMaps.C04_treeSet" />
       <module name="JavaCourse" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Day31_collections.*" />
+          <option name="PATTERN" value="Day32_setsMaps.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -67,12 +68,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C03_queue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day31_collections.C03_queue" />
+    <configuration name="C05_maps" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day32_setsMaps.C05_maps" />
       <module name="JavaCourse" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Day31_collections.*" />
+          <option name="PATTERN" value="Day32_setsMaps.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -80,12 +81,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C04_Deque" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day31_collections.C04_Deque" />
+    <configuration name="C06_value" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day32_setsMaps.C06_value" />
       <module name="JavaCourse" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Day31_collections.*" />
+          <option name="PATTERN" value="Day32_setsMaps.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -93,12 +94,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C06_arraydekiTekrarlardanKurtulma" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day31_collections.C06_arraydekiTekrarlardanKurtulma" />
+    <configuration name="C07_soyIsimleOgrenciArama" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day32_setsMaps.C07_soyIsimleOgrenciArama" />
       <module name="JavaCourse" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Day31_collections.*" />
+          <option name="PATTERN" value="Day32_setsMaps.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -106,12 +107,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IteratorQ3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day30_interfaces_Iterartor.IteratorQ3" />
+    <configuration name="C08_SubeListesiOlusturma" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day32_setsMaps.C08_SubeListesiOlusturma" />
       <module name="JavaCourse" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Day30_interfaces_Iterartor.*" />
+          <option name="PATTERN" value="Day32_setsMaps.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -121,11 +122,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.C06_arraydekiTekrarlardanKurtulma" />
-        <item itemvalue="Application.C04_Deque" />
-        <item itemvalue="Application.C03_queue" />
-        <item itemvalue="Application.C02_LinkedList" />
-        <item itemvalue="Application.IteratorQ3" />
+        <item itemvalue="Application.C08_SubeListesiOlusturma" />
+        <item itemvalue="Application.C07_soyIsimleOgrenciArama" />
+        <item itemvalue="Application.C06_value" />
+        <item itemvalue="Application.C05_maps" />
+        <item itemvalue="Application.C04_treeSet" />
       </list>
     </recent_temporary>
   </component>
