@@ -5,15 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cbf215c0-a273-425f-8142-4001feb223cd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Day32_setsMaps/C01_sets.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day32_setsMaps/C02_hashSetMethodlari.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day32_setsMaps/C03_hashSetTreeSet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day32_setsMaps/C04_treeSet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day32_setsMaps/C05_maps.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day32_setsMaps/C06_value.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day32_setsMaps/C08_SubeListesiOlusturma.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day32_setsMaps/mapMethodDepo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day33_maps/C01_cumledeHarfSayilariniBulma.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day33_maps/C02_entryMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day33_maps/C03_sinifListesiYazdirma.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day33_maps/C04_BolumListesiOlusturma.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day33_maps/C05_soyisimleriBuyukHarfYapma.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day33_maps/C06_siniflariArttirma.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day33_maps/C07_sinifSiraliListeOlusturma.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day33_maps/C08_isimSoyisimSiraliListe.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Day32_setsMaps/mapMethodDepo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day32_setsMaps/mapMethodDepo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,13 +55,13 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;project.scopes&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.C08_SubeListesiOlusturma">
-    <configuration name="C04_treeSet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day32_setsMaps.C04_treeSet" />
+  <component name="RunManager" selected="Application.C08_isimSoyisimSiraliListe">
+    <configuration name="C04_BolumListesiOlusturma" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day33_maps.C04_BolumListesiOlusturma" />
       <module name="JavaCourse" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Day32_setsMaps.*" />
+          <option name="PATTERN" value="Day33_maps.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -68,12 +69,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C05_maps" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day32_setsMaps.C05_maps" />
+    <configuration name="C05_soyisimleriBuyukHarfYapma" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day33_maps.C05_soyisimleriBuyukHarfYapma" />
       <module name="JavaCourse" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Day32_setsMaps.*" />
+          <option name="PATTERN" value="Day33_maps.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -81,12 +82,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C06_value" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day32_setsMaps.C06_value" />
+    <configuration name="C06_siniflariArttirma" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day33_maps.C06_siniflariArttirma" />
       <module name="JavaCourse" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Day32_setsMaps.*" />
+          <option name="PATTERN" value="Day33_maps.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -94,12 +95,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C07_soyIsimleOgrenciArama" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day32_setsMaps.C07_soyIsimleOgrenciArama" />
+    <configuration name="C07_sinifSiraliListeOlusturma" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day33_maps.C07_sinifSiraliListeOlusturma" />
       <module name="JavaCourse" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Day32_setsMaps.*" />
+          <option name="PATTERN" value="Day33_maps.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -107,12 +108,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C08_SubeListesiOlusturma" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day32_setsMaps.C08_SubeListesiOlusturma" />
+    <configuration name="C08_isimSoyisimSiraliListe" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day33_maps.C08_isimSoyisimSiraliListe" />
       <module name="JavaCourse" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Day32_setsMaps.*" />
+          <option name="PATTERN" value="Day33_maps.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -122,11 +123,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.C08_SubeListesiOlusturma" />
-        <item itemvalue="Application.C07_soyIsimleOgrenciArama" />
-        <item itemvalue="Application.C06_value" />
-        <item itemvalue="Application.C05_maps" />
-        <item itemvalue="Application.C04_treeSet" />
+        <item itemvalue="Application.C08_isimSoyisimSiraliListe" />
+        <item itemvalue="Application.C07_sinifSiraliListeOlusturma" />
+        <item itemvalue="Application.C06_siniflariArttirma" />
+        <item itemvalue="Application.C05_soyisimleriBuyukHarfYapma" />
+        <item itemvalue="Application.C04_BolumListesiOlusturma" />
       </list>
     </recent_temporary>
   </component>
