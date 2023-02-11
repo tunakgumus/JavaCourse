@@ -4,18 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cbf215c0-a273-425f-8142-4001feb223cd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Day33_maps/C01_cumledeHarfSayilariniBulma.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day33_maps/C02_entryMap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day33_maps/C03_sinifListesiYazdirma.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day33_maps/C04_BolumListesiOlusturma.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day33_maps/C05_soyisimleriBuyukHarfYapma.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day33_maps/C06_siniflariArttirma.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day33_maps/C07_sinifSiraliListeOlusturma.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day33_maps/C08_isimSoyisimSiraliListe.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Day32_setsMaps/mapMethodDepo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day32_setsMaps/mapMethodDepo.java" afterDir="false" />
-    </list>
+    <list default="true" id="cbf215c0-a273-425f-8142-4001feb223cd" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
